@@ -206,7 +206,7 @@ li {
 }
 
 /* Media Queries */
-@media (max-width: 690) {
+@media (max-width: 690px) {
     .logo img {
         width: 50px;
     }
