@@ -37,7 +37,9 @@ body {
 }
 
 header {
-    padding: 1em;
+    background: #333;
+    color: #fff;
+    padding: 1rem;
 }
 
 .header-content {
