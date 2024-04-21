@@ -210,4 +210,7 @@ li {
     .logo img {
         width: 50px;
     }
+    .logo h1 {
+        font-size: 20px;
+    }
 }
