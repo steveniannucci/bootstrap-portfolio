@@ -36,12 +36,6 @@ body {
     opacity: 1;
 }
 
-header {
-    background: #333;
-    color: #fff;
-    padding: 1rem;
-}
-
 .header-content {
     display: flex;
     justify-content: space-between;
