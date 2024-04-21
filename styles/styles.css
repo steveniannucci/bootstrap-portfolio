@@ -174,9 +174,14 @@ footer {
 }
 
 mark {
+    display: block;
     background-color: white;
     border: solid 1px white;
     border-radius: 5px;
+    text-align: center;
+    width: 25%;
+    margin-left: auto;
+    margin-right: auto;
 }
 
 .contactForm {
