@@ -36,6 +36,10 @@ body {
     opacity: 1;
 }
 
+header {
+    padding: 1em;
+}
+
 .header-content {
     display: flex;
     justify-content: space-between;
