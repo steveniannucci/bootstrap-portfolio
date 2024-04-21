@@ -105,6 +105,10 @@ h2 {
     text-align: center;
 }
 
+.card-deck {
+    width: 100%;
+}
+
 .promo {
     text-align: center;
     background-color: white;
