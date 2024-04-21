@@ -14,10 +14,6 @@ body {
     min-height: 100vh;
 }
 
-.card {
-    width: 50px;
-}
-
 .page-container {
     position: relative;
 }
