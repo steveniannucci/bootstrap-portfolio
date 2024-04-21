@@ -206,3 +206,8 @@ li {
 }
 
 /* Media Queries */
+@media (max-width: 690) {
+    .logo img {
+        width: 50px;
+    }
+}
