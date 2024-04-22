@@ -97,6 +97,10 @@ article h1 {
     padding: 50px;
 }
 
+h1 {
+    text-align: center;
+}
+
 article p {
     text-align: center;
 }
