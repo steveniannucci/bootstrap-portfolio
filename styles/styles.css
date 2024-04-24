@@ -220,4 +220,8 @@ li {
     margin-top: 15px;
 }
 
+#carouselExampleIndicators .carousel-inner img {
+    height: 500px;
+    width: auto;
+}
 /* Media Queries */
