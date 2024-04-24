@@ -219,9 +219,4 @@ mark {
 li {
     margin-top: 15px;
 }
-
-#carouselExampleIndicators .carousel-inner img {
-    height: 800px;
-    width: auto;
-}
 /* Media Queries */
