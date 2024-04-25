@@ -219,4 +219,10 @@ mark {
 li {
     margin-top: 15px;
 }
+
+#linkedbutton {
+    width: 200px;
+    margin-left: auto;
+    margin-right: auto;
+}
 /* Media Queries */
